@@ -11,7 +11,8 @@ A website made using HTML CSS and Boostrap. Tried my best to not make the websit
 ## Preview
 
 ### Website on Desktop
-<a href="https://imgflip.com/gif/6ymxws">via Imgflip</a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72181828/198637528-eb03020c-d970-4154-a334-0b732087c879.gif)
+
 
 ### Responsiveness
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:50.56%;position:relative;"><iframe width="360" height="182" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ymygl"></iframe></div><p><a href="https://imgflip.com/gif/6ymygl">via Imgflip</a></p></div>
+![chrome_rLEuiN282v(1)](https://user-images.githubusercontent.com/72181828/198631671-68cae76c-f8f3-4eca-a8f0-526e6ea56122.gif)
